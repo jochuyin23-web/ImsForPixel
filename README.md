@@ -1,4 +1,4 @@
-# IMS for Pixel
+delete# IMS for Pixel
 
 > Rootless VoLTE, VoNR (5G Voice), Wi-Fi Calling, and Carrier Aggregation enabler for Google Pixel devices.
 
